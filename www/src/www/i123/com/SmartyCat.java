@@ -4,11 +4,11 @@ public class SmartyCat {
     private String name;
     private String interestings;
 
-    public void getName() {
+    public String getName() {
         return this.name;
     };
 
-    public void getInterestings() {
+    public String getInterestings() {
         return this.interestings;
     }
 }
